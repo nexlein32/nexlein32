@@ -67,11 +67,6 @@
     </tr>
 </table>
 
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=nexlein32&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-<br/>
-
 [![PayPal](https://img.shields.io/badge/PayPal-Support_Me-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nexlein)
 
 </div>

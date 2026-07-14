@@ -73,10 +73,10 @@ Open to **freelance projects**.
 <table align="center">
     <tr>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexlein&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nexlein&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
         </td>
         <td align="center" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=Nexlein&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nexlein&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
         </td>
     </tr>
 </table>
